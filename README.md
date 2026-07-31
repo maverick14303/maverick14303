@@ -35,6 +35,7 @@ ml       PyTorch · TensorFlow · scikit-learn · DeepFace · NumPy · Pandas
 local    Ollama · faster-whisper · Silero VAD · CTranslate2
 ship     Next.js · TypeScript · FastAPI · Supabase · Cloudflare Workers · Vercel
 core     Python · Java · adversarial ML · DSA (daily, in Java)
+tools    Claude Code · Jupyter · Figma
 ```
 
 ### ▸ Contact
