@@ -24,7 +24,7 @@ SWING BOT     nse swing trader      ○ private   ₹1,000 hard cap · backtest�
 
 ### ▸ Currently
 
-**AI Intern at EY** — building an LLM document-intelligence platform for a government client. Scanned journals in, defensible scores out, every score quoting the exact line it came from.
+**AI Intern at EY (Jun–Jul 2026)** — built an LLM document-intelligence platform for a government client. Scanned journals in, defensible scores out, every score quoting the exact line it came from.
 
 **Before that, DRDO** — Scientific Analysis Group, adversarial ML. I attacked face-recognition models to measure how they break: black-box SimBA and NES pipelines across 8+ models and 9,000+ samples, plus transfer-based PGD.
 
